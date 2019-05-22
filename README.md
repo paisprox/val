@@ -6,9 +6,9 @@ run this command on your vps
 
 >`$ cd val`
 
->`$ chmod +x ./paisx`
+>`$ chmod +x pais`
 
->`$ ./paisx`
+>`$ ./pais`
 
 Kalo ada error gini => "version `GLIBC_2.14' not found" install libc6 di vps mu caranya
   > $ sudo apt-get install libc6 -y
