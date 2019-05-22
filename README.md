@@ -7,9 +7,9 @@ ONLY CAN RUN ON VPS SINGAPORE!
 
 >`$ cd val`
 
->`$ chmod +x pais`
+>`$ chmod +x paisx`
 
->`$ ./pais`
+>`$ ./paisx`
 
 Kalo ada error gini => "version `GLIBC_2.14' not found" install libc6 di vps mu caranya
   > $ sudo apt-get install libc6 -y
