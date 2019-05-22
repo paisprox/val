@@ -1,6 +1,7 @@
 # val
 
 run this command on your vps
+ONLY CAN RUN ON VPS SINGAPORE!
 
 >`$ git clone https://github.com/paisprox/val.git`
 
